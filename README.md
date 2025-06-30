@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&title_color=a020f0&text_color=a020f0&icon_color=a020f0&bg_color=fdfbff&cache_seconds=2300" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&theme=transparent&title_color=f2ae0f&icon_color=f2ae0f&text_color=8bcea8" />
 
 ### Welcome to my Github Profile!!! ![](https://cdn.discordapp.com/emojis/899326455274676225.png?size=22)
 
