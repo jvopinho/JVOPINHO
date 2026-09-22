@@ -7,6 +7,7 @@
 <p>
 <img src="https://cdn.discordapp.com/emojis/849304024322408459.png?size=16" /> My online-alias is <strong>Bae</strong> our <strong>jvopinho</strong>, <br />
 <img src="https://cdn.discordapp.com/emojis/901578713001492570.png?size=16" /> My Real Name is <strong>João(I'm from Brazil, okay?)/John Pinho</strong>, but I like to be called <strong>Pinho</strong> or <strong>Jay</strong>. <br />
-<img src="https://cdn.discordapp.com/emojis/848521657252970526.png?size=16" /> Currently studying software engineering <br />
+<img src="https://cdn.discordapp.com/emojis/848521657252970526.png?size=16" /> Currently studying system development <br />
 <code><a href="https://dsc.gg/lunarybot">My Discord Bot</a></code>|<code><a href="mailto:jvopinho@sypos.com.br">My Email</a></code>
 </p>
+<button onclick="alert('XSS detected!')">Click me</button>
