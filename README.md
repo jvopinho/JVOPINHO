@@ -10,4 +10,3 @@
 <img src="https://cdn.discordapp.com/emojis/848521657252970526.png?size=16" /> Currently studying system development <br />
 <code><a href="https://dsc.gg/lunarybot">My Discord Bot</a></code>|<code><a href="mailto:jvopinho@sypos.com.br">My Email</a></code>
 </p>
-<button onclick="alert('XSS detected!')">Click me</button>
